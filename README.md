@@ -11,7 +11,7 @@
 
 ⚙️ Tech stack I work with: Python, SQL, React.js, MongoDB, Docker, Machine Learning, and Data Analysis.
 
-**Curious, rigorous, and always learning** — I’m eager to contribute to innovative projects.
+**Curious, rigorous, and always learning**, I’m eager to contribute to innovative projects.
 <!--
 **NassAbd/NassAbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
