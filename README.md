@@ -4,10 +4,10 @@
 
 💼 I’m also working as a Software Engineer at Powens, _"Where Open Finance Meets Embedded Banking"_.
 
-💡 Passionate about Data Science, Machine Learning, and Web Development, I enjoy turning ideas into real-world projects. Some of my recent works include:
+💡 Passionate about Data Science, Machine Learning, and Software Development, I enjoy turning ideas into real-world projects. Some of my recent works include:
 - Building a full-stack internship aggregator with automated scraping, LLM-powered profile analysis, and a personalized application tracking dashboard.
-- Building a full-stack app with OCR + LLM to extract structured data from resumes.
-- Developing a RAG-based assistant for document search and Q&A.
+- Building a lightweight, edge-optimized CNN for wildfires detection and providing real-time performance benchmarking.
+- Developing a Playwright script for training on Global Exam, featuring stealth anti-detection measures, automatic login, and continuous exercise solving with a built-in Q&A mapping.
 
 ⚙️ Tech stack I work with: Python, SQL, React.js, MongoDB, Docker, Machine Learning, and Data Analysis.
 
