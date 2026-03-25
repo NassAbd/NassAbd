@@ -1,17 +1,27 @@
-## Hi there 👋, I'm Abdallah Nassur
+# Abdallah Nassur :wave:
+**Software Engineer @ [Powens](https://www.powens.com/) | MSc Big Data & AI [IPSSI](https://ecole-ipssi.com/)**
 
-🎓 I’m currently pursuing a Master’s degree in Big Data & AI at IPSSI (Paris).
+Building robust automation and AI systems. Focus on Open Finance, scraping, and ML.
 
-💼 I’m also working as a Software Engineer at Powens, _"Where Open Finance Meets Embedded Banking"_.
+---
 
-💡 Passionate about Data Science, Machine Learning, and Software Development, I enjoy turning ideas into real-world projects. Some of my recent works include:
-- Building a full-stack internship aggregator with automated scraping, LLM-powered profile analysis, and a personalized application tracking dashboard.
-- Building a lightweight, edge-optimized CNN for wildfires detection and providing real-time performance benchmarking.
-- Developing a Playwright script for training on Global Exam, featuring stealth anti-detection measures, automatic login, and continuous exercise solving with a built-in Q&A mapping.
+### :rocket: Recent Projects
 
-⚙️ Tech stack I work with: Python, SQL, React.js, MongoDB, Docker, Machine Learning, and Data Analysis.
+#### [InternApp](https://github.com/NassAbd/InternApp) | Full-stack Automation
+- **Challenge:** Automate internship hunting with semantic matching.
+- **Tech:** Playwright (Scraping), LLM-based profile analysis, React (Dashboard).
 
-**Curious, rigorous, and always learning**, I’m eager to contribute to innovative projects.
+#### [Wildfire Detection](https://github.com/NassAbd/edge_wildfire) | Edge AI
+- **Challenge:** Real-time detection on low-power hardware.
+- **Tech:** CNN (PyTorch), Edge optimization, Benchmarking.
+
+#### [Global Exam Automator](https://github.com/NassAbd/global_exam) | Stealth Scripting
+- **Challenge:** Continuous exercise solving with anti-detection bypass.
+- **Tech:** Playwright Stealth, Q&A Mapping, Auto-login.
+
+---
+
+:mailbox: [LinkedIn](https://www.linkedin.com/in/abdallah-nassur-303b4a2a9/) • Available Oct. 2026
 <!--
 **NassAbd/NassAbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
