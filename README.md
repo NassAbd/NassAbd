@@ -7,15 +7,15 @@ Building robust automation and AI systems. Focus on Open Finance, scraping, and 
 
 ### :rocket: Recent Projects
 
-#### [InternApp](https://github.com/NassAbd/InternApp) | Full-stack Automation
+#### [InternApp](https://github.com/NassAbd/intern-app) | Full-stack Automation
 - **Challenge:** Automate internship hunting with semantic matching.
 - **Tech:** Playwright (Scraping), LLM-based profile analysis, React (Dashboard).
 
-#### [Wildfire Detection](https://github.com/NassAbd/edge_wildfire) | Edge AI
+#### [Wildfire Detection](https://github.com/NassAbd/edge-wildfire) | Edge AI
 - **Challenge:** Real-time detection on low-power hardware.
 - **Tech:** CNN (PyTorch), Edge optimization, Benchmarking.
 
-#### [Global Exam Automator](https://github.com/NassAbd/global_exam) | Stealth Scripting
+#### [Global Exam Automator](https://github.com/NassAbd/global-exam) | Stealth Scripting
 - **Challenge:** Continuous exercise solving with anti-detection bypass.
 - **Tech:** Playwright Stealth, Q&A Mapping, Auto-login.
 
