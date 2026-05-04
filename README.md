@@ -15,9 +15,9 @@ Building robust automation and AI systems. Focus on Open Finance, scraping, and 
 - **Challenge:** Real-time detection on low-power hardware.
 - **Tech:** CNN (PyTorch), Edge optimization, Benchmarking.
 
-#### [Global Exam Automator](https://github.com/NassAbd/global-exam) | Stealth Scripting
-- **Challenge:** Continuous exercise solving with anti-detection bypass.
-- **Tech:** Playwright Stealth, Q&A Mapping, Auto-login.
+#### [YouSkipAI](https://github.com/NassAbd/youskip-ai) | AI Hybrid Detection
+- **Challenge:** Eliminate YouTube sponsors using high-precision semantic analysis.
+- **Tech:** Gemini 2.5 Flash, Sentence-Transformers (Local Embeddings), FastAPI, Chrome Extension.
 
 ---
 
