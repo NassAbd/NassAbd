@@ -7,13 +7,13 @@ Building robust automation, media engines, and AI systems. Focused on Open Finan
 
 ### 🚀 Featured Projects
 
+#### [GHOST](https://github.com/NassAbd/hackathon_agents) | Ambient Browser Agent
+- **Challenge:** Connect real-time cross-application context to infer user intent and trigger grounded actions without manual prompting.
+- **Tech:** OpenAI Agents SDK, Chrome Extension (Manifest V3), Next.js, React Flow, TypeScript, Zod.
+
 #### [Subtitler Studio](https://github.com/NassAbd/generathon) | AI Video & Media Engine
 - **Challenge:** Transform raw video clips into viral shorts in 1-click.
 - **Tech:** Next.js (App Router), Canvas API, Web Audio API (Sidechain Ducking), Supabase, CapCut Export.
-
-#### [YouSkipAI](https://github.com/NassAbd/youskip-ai) | AI Hybrid Detection
-- **Challenge:** Eliminate YouTube sponsors in real-time using high-precision semantic analysis.
-- **Tech:** Gemini 2.5 Flash, Local Sentence-Transformers, FastAPI, Chrome Extension.
 
 #### [Edge Wildfire Detection](https://github.com/NassAbd/edge-wildfire) | Edge AI & Computer Vision
 - **Challenge:** Real-time satellite imagery wildfire detection optimized for low-power hardware.
